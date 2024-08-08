@@ -1,1 +1,0 @@
-new LocomotiveScroll({el:document.querySelector("[data-scroll-container]"),smooth:!0});
