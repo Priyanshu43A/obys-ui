@@ -1,0 +1,1 @@
+animatin in watch text that is moving with cursor is not good as expected
